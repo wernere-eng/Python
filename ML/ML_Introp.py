@@ -138,12 +138,17 @@ if v_print_data_analysis == 1 :
 # test some smple code on Arrays  
 #can delete this section of code 
 
+#numpy arrays
 import numpy as np
 data = [11,22,33,44,55,66] # this is a list 
 
 data = np.array(data) #convert list to an array
 print(data)
 print(type(data))
+
+
+#python Arrays
+
 
       
 
